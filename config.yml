@@ -1,0 +1,4 @@
+#swagger_url: http://api.staging.ostadkar.pro:2390/swaggerui/configs/swagger.yml
+swagger_url: http://api.dev.ostadkar.pro:2390/swaggerui/configs/swagger.yml
+service_discovery_url: https://api.dev.ostadkar.pro
+#service_discovery_url: https://api.staging.ostadkar.pro
